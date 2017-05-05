@@ -1,5 +1,13 @@
 {
   "result": {
+<<<<<<< HEAD
     "covered_percent": 77.27
+=======
+<<<<<<< HEAD
+    "covered_percent": 100.0
+=======
+    "covered_percent": 96.0
+>>>>>>> 4bc4455... added parent option to generator controller
+>>>>>>> a7fcc01... added parent option to generator controller
   }
 }

@@ -10,6 +10,288 @@
         1,
         null
       ],
+<<<<<<< HEAD
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/users_controller.rb": [
+=======
+<<<<<<< HEAD
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/home_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+=======
+      "/Users/grolar/workspace/rails/tracability-api/app/models/city.rb": [
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/models/state.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/cities_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        null,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        3,
+        3,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        4,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/api_controller.rb": [
+        1,
+        1,
+        1,
+>>>>>>> 4bc4455... added parent option to generator controller
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+<<<<<<< HEAD
+      "/Users/grolar/workspace/rails/tracability-api/app/models/inventory_type.rb": [
+=======
+      "/Users/grolar/workspace/rails/tracability-api/app/serializers/city_serializer.rb": [
+        1,
+>>>>>>> 4bc4455... added parent option to generator controller
+        1,
+        1,
+        null
+      ],
+<<<<<<< HEAD
+      "/Users/grolar/workspace/rails/tracability-api/app/models/note.rb": [
+        1,
+        1,
+        null,
+=======
+      "/Users/grolar/workspace/rails/tracability-api/app/serializers/state_serializer.rb": [
+        1,
+        1,
+        null,
+        1,
+        5,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/models/inventory_type.rb": [
+        1,
+>>>>>>> 4bc4455... added parent option to generator controller
+        1,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/inventory_types_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+>>>>>>> a7fcc01... added parent option to generator controller
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+<<<<<<< HEAD
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/api_controller.rb": [
+=======
+      "/Users/grolar/workspace/rails/tracability-api/app/serializers/inventory_type_serializer.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/models/note.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+<<<<<<< HEAD
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/application_controller.rb": [
+=======
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        3,
+        null,
+        3,
+        1,
+        null,
+        2,
+        null,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+>>>>>>> 4bc4455... added parent option to generator controller
+        1,
+        1,
+        1,
+        null
+      ],
+<<<<<<< HEAD
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/notes_controller.rb": [
+=======
+      "/Users/grolar/workspace/rails/tracability-api/app/serializers/note_serializer.rb": [
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/states_controller.rb": [
+>>>>>>> 4bc4455... added parent option to generator controller
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        3,
+        null,
+        3,
+        1,
+        null,
+        2,
+        null,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        4,
+        null,
+        null,
+        1,
+        5,
+        null,
+        null,
+        null,
+        null
+      ],
+<<<<<<< HEAD
+      "/Users/grolar/workspace/rails/tracability-api/app/serializers/inventory_type_serializer.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/grolar/workspace/rails/tracability-api/app/serializers/note_serializer.rb": [
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+=======
+>>>>>>> 4bc4455... added parent option to generator controller
       "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/users_controller.rb": [
         1,
         1,
@@ -20,22 +302,7 @@
         null,
         null,
         null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null
-      ],
-      "/Users/grolar/workspace/rails/tracability-api/app/controllers/api/v1/api_controller.rb": [
-        1,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/grolar/workspace/rails/tracability-api/app/controllers/application_controller.rb": [
+>>>>>>> a7fcc01... added parent option to generator controller
         1,
         1,
         null
@@ -53,6 +320,14 @@
         0
       ]
     },
+<<<<<<< HEAD
     "timestamp": 1492391844
+=======
+<<<<<<< HEAD
+    "timestamp": 1493665660
+=======
+    "timestamp": 1493964832
+>>>>>>> 4bc4455... added parent option to generator controller
+>>>>>>> a7fcc01... added parent option to generator controller
   }
 }
