@@ -21,8 +21,7 @@ module Rails
                                 desc: "Skip Models, Factory, and Model Tests"
       class_option :parent, type: :string, desc: "Make resource a shallow nesting of parent"
 
-      class_option :attributes, type: :array, default: [], banner: "field:type field:type"
-
+      argument :attributes, type: :array, default: [], banner: "field:type field:type"
 
       def generate_resource
         unless options.skip_model?
@@ -49,10 +48,6 @@ module Rails
 
         def plural_parent_table_name
           options.parent.downcase.pluralize
-        end
-
-        def attribute_names
-          @attributes.map {|a| a.split(":")}.map(&:first)
         end
 
       private
